@@ -1,13 +1,13 @@
 import firebase from 'firebase';
 
 const firebaseConfig = {
-  apiKey: 'AIzaSyCmh_RoM0UGwzxF0LjnlLF1ND1tF6_ENDA',
-  authDomain: 'disneyplus-clone-ba234.firebaseapp.com',
-  projectId: 'disneyplus-clone-ba234',
-  storageBucket: 'disneyplus-clone-ba234.appspot.com',
-  messagingSenderId: '1008549085305',
-  appId: '1:1008549085305:web:0dbf9157232faad65994a8',
-  measurementId: 'G-7169KYP6K0',
+  apiKey: 'AIzaSyAXTjXWmJL5_cMqap39A8zZ1oF3jE3MoJg',
+  authDomain: 'disney-plus-c7e13.firebaseapp.com',
+  projectId: 'disney-plus-c7e13',
+  storageBucket: 'disney-plus-c7e13.appspot.com',
+  messagingSenderId: '410673778495',
+  appId: '1:410673778495:web:ff89d91e7ba73e3c788d8a',
+  measurementId: 'G-EGNPRP7PNQ',
 };
 
 const firebaseApp = firebase.initializeApp(firebaseConfig);
